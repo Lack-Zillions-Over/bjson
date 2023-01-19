@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/Lack-Zillions-Over/bjson/compare/v1.0.1...v1.0.2) (2023-01-19)
+
+
+### Tests
+
+* **suite tests:** write tests for package ([baf8245](https://github.com/Lack-Zillions-Over/bjson/commit/baf8245947504d9f2c89a4d138a25e6c9cf221be))
+
 ### 1.0.1 (2023-01-19)
 
 
