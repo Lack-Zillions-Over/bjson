@@ -1,6 +1,6 @@
 {
   "name": "lzo-bjson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Data Serializer and Deserializer.",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
